@@ -154,11 +154,8 @@
 .container-faq .faq-item .resposta.active {
     display: block;
 }
+
 /* fim javascript*/
-
-
-
-
 
 
 @media screen and (max-width: 768px) {
@@ -174,21 +171,6 @@
         padding: 10px; 
     }
 
-    .container-imagens-produtos {
-        justify-content: center; 
-    }
 
-    .texto-produtos {
-        width: 100%; 
-    }
-
-    .video-wrapper {
-        width: 100%; 
-    }
-
-    iframe, video {
-        max-width: 100%; 
-        height: auto; 
-    }
 }
 
