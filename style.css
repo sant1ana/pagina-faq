@@ -1,0 +1,194 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+.topo{
+    background-color: #fcb900;
+    width: 100%;
+}
+
+.topo .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 60px;
+    padding: 0 10px;
+    margin: 0 auto;
+
+}
+
+.visao-geral-banner{
+    background-image: url(img/banner.jpeg);
+    margin: -40px auto 0;
+    background-position: center;
+    background-size: 67% ; 
+    background-repeat: no-repeat;
+    height: 100vh
+
+
+}
+
+.container-titulo-topo {
+    max-width: 1023px;
+    border-radius: 10px;
+    padding:  30px;
+    margin: -60px auto 0;
+    background: #ffffffc4;
+    box-shadow: 0 8px 32px #fcb900;
+}
+
+.titulo-topo {
+    font-size: 30px;
+    color: #153d6d;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 20px;
+    font-family: 'source sans Pro' sans-serif;
+}
+
+.container-titulo-topo p {
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    font-family: 'source sans Pro' sans-serif;
+}
+
+
+.container-faq {
+    padding: 110px 50px;
+    justify-content: center;
+    
+}
+
+
+.frase-faq {
+    font-size: 32px;
+    color: #153d6d;
+    text-align: center;
+    margin: 5 5 25px;
+    padding: 30px;
+
+}
+
+
+.faq-item{
+    max-width: 1000px;
+    color: #153d6d;
+    position: relative;
+    margin: 0 auto 2px;
+    padding: 2px;
+
+}  
+
+.container-faq .faq-item .pergunta {
+    position: relative;
+    padding: 13px;
+    background: #1E293B0D;
+    color: #153d6d;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+
+}
+
+.resposta-itens{
+    padding:  10px;
+}
+
+.resposta{
+    position: relative;
+    padding: 14px;
+    background: #FFFF;
+    font-size: 16px; 
+    border-radius: 5px;
+    margin: 5px auto;
+    line-height: 1.6;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+/* Início CSS Rodapé */
+
+.rodape {
+    padding: 12px;
+    color: #000000;
+    background-color: #fcb900;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+/* Fim CSS Rodapé */
+
+
+
+/* inicio javascript*/
+
+.container-faq .faq-item .pergunta::after{
+    content: '+';
+    position: absolute;
+    top : 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    font-size: 1.5em;
+    cursor: pointer;
+    
+}
+
+.container-faq .faq-item .pergunta[data-active="-"]::after {
+    content: '-';
+}
+
+.container-faq .faq-item .resposta {
+    display: none;
+}
+
+.container-faq .faq-item .resposta.active {
+    display: block;
+}
+/* fim javascript*/
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .container-faq {
+        padding: 50px 20px; 
+    }
+    
+    .container-titulo-topo {
+        padding: 20px; 
+    }
+    
+    .faq-item .resposta {
+        padding: 10px; 
+    }
+
+    .container-imagens-produtos {
+        justify-content: center; 
+    }
+
+    .texto-produtos {
+        width: 100%; 
+    }
+
+    .video-wrapper {
+        width: 100%; 
+    }
+
+    iframe, video {
+        max-width: 100%; 
+        height: auto; 
+    }
+}
+
