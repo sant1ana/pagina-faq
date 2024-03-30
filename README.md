@@ -22,7 +22,7 @@ O projeto resultou em uma página FAQ funcional e esteticamente agradável que a
 ## :link: Acesso ao projeto
 
 Você pode acessar o projeto final clicando aqui:  https://sant1ana.github.io/pagina-faq/
-
+<br><br>
 
 
 ![WhatsApp Image 2024-03-21 at 12 17 58](https://github.com/sant1ana/pagina-faq/assets/93404790/56623580-c028-4626-aded-8ad7cbbb4944)
