@@ -16,7 +16,6 @@ Minhas responsabilidades incluíram:
 - CSS3
 - JavaScript
 
- ## O que aprendi
 O projeto resultou em uma página FAQ funcional e esteticamente agradável que atendeu às expectativas do cliente. A experiência adquirida neste projeto reforçou minhas habilidades de desenvolvimento frontend e minha capacidade de trabalhar de forma autônoma para atender às necessidades do cliente.
 
 
