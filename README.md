@@ -3,23 +3,22 @@
 ## Descrição
 Este é um projeto desenvolvido por mim como freelancer na área de desenvolvimento frontend. A página FAQ (Perguntas Frequentes) foi criada sob encomenda para uma empresa cliente. No entanto, devido a acordos de confidencialidade, não posso compartilhar o conteúdo real da página, incluindo o nome da empresa e as informações de texto, arquivos PDFs e vídeos das respostas. Portanto, para demonstrar minhas habilidades e compartilhar este projeto, criei um conjunto de perguntas e respostas fictícias. Essas perguntas e respostas fictícias são usadas apenas para propósitos de demonstração e não refletem o conteúdo real da página desenvolvida para o cliente.
 
-- Utilização de HTML semântico para estruturar o conteúdo da página.
-- Estilização da página usando CSS, com ênfase na responsividade para uma experiência em dispositivos 
- móveis e desktop.
-- Implementação de funcionalidade interativa usando JavaScript para expandir e recolher as seções de 
- perguntas e respostas.
-- Resultando da página FAQ que atende a necessidade e melhora a experiência do 
- usuário.
+Minhas responsabilidades incluíram:
+
+- Colaboração estreita com o cliente para entender os requisitos e objetivos do projeto
+- Design e implementação da estrutura HTML para garantir uma organização lógica e acessível do conteúdo da página.
+- Estilização da página utilizando CSS para garantir uma aparência profissional e coesa em todos os dispositivos.
+- Implementação de funcionalidades interativas usando JavaScript para melhorar a experiência do usuário, como acordeões para exibir as perguntas e respostas de forma expansível.
+- Garantia de que a página fosse responsiva, adaptando-se de forma eficaz a uma variedade de tamanhos de tela e dispositivos, utilizando técnicas como media queries
 
 ## Tecnologias Utilizadas
 - HTML5
 - CSS3
 - JavaScript
 
- ## Como Usar
-- Navegue pelas diferentes seções da página FAQ para encontrar respostas às perguntas fictícias.
-- Clique nas perguntas para expandir ou recolher as respostas correspondentes.
-- 
+ ## O que aprendi
+O projeto resultou em uma página FAQ funcional e esteticamente agradável que atendeu às expectativas do cliente. A experiência adquirida neste projeto reforçou minhas habilidades de desenvolvimento frontend e minha capacidade de trabalhar de forma autônoma para atender às necessidades do cliente.
+
 
 ## :link: Acesso ao projeto
 
