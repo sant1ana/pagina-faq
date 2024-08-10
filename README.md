@@ -1,7 +1,7 @@
-# Página FAQ - Projeto Freelancer
+# Página FAQ 
 
 ## Descrição
-Este é um projeto desenvolvido por mim como freelancer. A página FAQ (Perguntas Frequentes) foi criada sob encomenda para uma cliente. No entanto, devido a acordos de confidencialidade, não posso compartilhar o conteúdo real da página, incluindo o nome da empresa e as informações de texto, arquivos PDFs e vídeos das respostas. Portanto, para demonstrar minhas habilidades e compartilhar este projeto, criei um conjunto de perguntas e respostas fictícias. Essas perguntas e respostas fictícias são usadas apenas para propósitos de demonstração e não refletem o conteúdo real da página desenvolvida para o cliente.
+Este é um projeto desenvolvido por mim. A página FAQ (Perguntas Frequentes) foi criada sob encomenda para uma cliente. No entanto, devido a acordos de confidencialidade, não posso compartilhar o conteúdo real da página, incluindo o nome da empresa e as informações de texto, arquivos PDFs e vídeos das respostas. Portanto, para demonstrar minhas habilidades e compartilhar este projeto, criei um conjunto de perguntas e respostas fictícias. Essas perguntas e respostas fictícias são usadas apenas para propósitos de demonstração e não refletem o conteúdo real da página desenvolvida para o cliente.
 
 Minhas responsabilidades incluíram:
 
