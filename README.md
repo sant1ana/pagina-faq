@@ -1,7 +1,7 @@
 # Página FAQ - Projeto Freelancer
 
 ## Descrição
-Este é um projeto desenvolvido por mim como freelancer na área de desenvolvimento frontend. A página FAQ (Perguntas Frequentes) foi criada sob encomenda para uma empresa cliente. No entanto, devido a acordos de confidencialidade, não posso compartilhar o conteúdo real da página, incluindo o nome da empresa e as informações de texto, arquivos PDFs e vídeos das respostas. Portanto, para demonstrar minhas habilidades e compartilhar este projeto, criei um conjunto de perguntas e respostas fictícias. Essas perguntas e respostas fictícias são usadas apenas para propósitos de demonstração e não refletem o conteúdo real da página desenvolvida para o cliente.
+Este é um projeto desenvolvido por mim como freelancer. A página FAQ (Perguntas Frequentes) foi criada sob encomenda para uma cliente. No entanto, devido a acordos de confidencialidade, não posso compartilhar o conteúdo real da página, incluindo o nome da empresa e as informações de texto, arquivos PDFs e vídeos das respostas. Portanto, para demonstrar minhas habilidades e compartilhar este projeto, criei um conjunto de perguntas e respostas fictícias. Essas perguntas e respostas fictícias são usadas apenas para propósitos de demonstração e não refletem o conteúdo real da página desenvolvida para o cliente.
 
 Minhas responsabilidades incluíram:
 
@@ -16,7 +16,7 @@ Minhas responsabilidades incluíram:
 - CSS3
 - JavaScript
 
-O projeto resultou em uma página FAQ funcional e esteticamente agradável que atendeu às expectativas do cliente. A experiência adquirida neste projeto reforçou minhas habilidades de desenvolvimento frontend e minha capacidade de trabalhar de forma autônoma para atender às necessidades do cliente.
+O projeto resultou em uma página FAQ funcional e esteticamente agradável que atendeu às expectativas do cliente. A experiência adquirida neste projeto reforçou minhas habilidades e minha capacidade de trabalhar de forma autônoma para atender às necessidades do cliente.
 
 
 ## :link: Acesso ao projeto
